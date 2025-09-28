@@ -56,25 +56,44 @@ Setelah logout, user bisa pilih apakah mau keluar program atau lanjut login lagi
 
 #Output Program
 
-# Login
+# Login<br>
+Saat pertama kali dijalankan, program meminta pengguna memasukkan username dan password.
+
+Jika login benar → muncul pesan sambutan sesuai role.<br>
+Jika salah → muncul pesan error “Username atau password salah!”.<br>
+
+(tampilan role pemilik)<br>
 <img width="436" height="110" alt="image" src="https://github.com/user-attachments/assets/1f4c043f-0994-4f61-bd11-3a8e37fa6348" />
 
-# Tambah Daftar
+(tampilan role teman)<br>
+<img width="503" height="87" alt="image" src="https://github.com/user-attachments/assets/b72c054b-39bc-433f-9c4f-57e7f01bac49" />
 
+# Tambah Daftar
+Pemilik menginput data cemilan baru. Setelah berhasil, muncul konfirmasi.
 <img width="538" height="179" alt="image" src="https://github.com/user-attachments/assets/249a48fd-a94b-43ac-bb4e-cb36234fcfad" />
 
 # Lihat Daftar
-
+Menampilkan seluruh cemilan dalam bentuk tabel. Jika kosong → muncul pesan “Belum ada data cemilan.
 <img width="503" height="149" alt="image" src="https://github.com/user-attachments/assets/3bfe9345-1622-481c-956a-0a1a2c118309" />
 
 # Ubah Data
-
+Pemilik memilih nomor urut cemilan, lalu mengisi data baru. Kalau input dikosongkan, nilai lama tetap
 <img width="668" height="226" alt="image" src="https://github.com/user-attachments/assets/fa16bde9-4db1-40de-9e26-d9538e5a237b" />
 
 # Hapus Data
-
+Pemilik memilih nomor urut cemilan untuk dihapus. Setelah berhasil, muncul konfirmasi.
 <img width="563" height="174" alt="image" src="https://github.com/user-attachments/assets/d01a9dc7-66c4-4c10-adc2-0d389e2e7d16" />
 
 # Logout 
-
+Setelah logout, user akan ditanya apakah ingin menutup program.
 <img width="467" height="119" alt="image" src="https://github.com/user-attachments/assets/290846ab-dcb7-4986-a5d7-f315c7d7862c" />
+
+# Tujuan Project 
+Alasan saya membuat program python ini "Sistem Manajemen Stok Cemilan" karena :<br>
+Program ini dibuat sebagai solusi sederhana untuk mencatat stok cemilan agar tidak ada yang lupa, terutama bagi pengguna yang suka nyemil tapi sering lupa status stoknya.<br>
+1. Melatih pemahaman konsep CRUD (Create, Read, Update, Delete) pada Python.<br>
+2. Menerapkan struktur kontrol (if, while, function) dalam program nyata.<br>
+3. Memberikan gambaran sederhana bagaimana sistem login dengan role bekerja.<br>
+4. Membantu pengguna mencatat stok cemilan, baik untuk pemilik (full akses) maupun teman (hanya melihat).
+
+# Terima Kasih
