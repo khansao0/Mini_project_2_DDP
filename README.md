@@ -2,8 +2,8 @@
 
 PRAKTIKUM MINI PROJECT 2 DDP - Sistem Manajemen Stok Cemilan dengan Login dan Hak Akses
 
-Nama : Qonitah Khansa' Ayu Madani Alamsyah
-NIM : 2509116113
+Nama : Qonitah Khansa' Ayu Madani Alamsyah<br>
+NIM : 2509116113<br>
 Kelas: Sistem Informasi C’25
 
 # Flowchart Sistem Manajemen Stok Cemilan  
