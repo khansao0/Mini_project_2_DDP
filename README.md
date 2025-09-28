@@ -6,8 +6,10 @@ Nama : Qonitah Khansa' Ayu Madani Alamsyah<br>
 NIM : 2509116113<br>
 Kelas: Sistem Informasi C’25
 
-# Flowchart Sistem Manajemen Stok Cemilan  
-Saya menggunakan 200% zoom agar jpeg flowchart nya HD/tidak buram  
+# Flowchart Manajemen Stok Cemilan  
+Saya menggunakan 200% zoom agar jpeg flowchart nya HD/tidak buram
+![minpro2](https://github.com/user-attachments/assets/38f7738e-54e1-468c-a994-a6f76946b2df)
+
 
 Alur Program<br>
 1. Login<br>
