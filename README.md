@@ -56,8 +56,7 @@ Pemilik bisa menghapus cemilan berdasarkan nomor urut. Kalau nomor salah, data t
 Logout akan kembali ke halaman login.<br>
 Setelah logout, user bisa pilih apakah mau keluar program atau lanjut login lagi.
 
-#Output Program
-
+# Output Program
 # Login<br>
 Saat pertama kali dijalankan, program meminta pengguna memasukkan username dan password.
 
